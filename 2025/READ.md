@@ -5,10 +5,10 @@ Hollow Clock V
  https://www.instructables.com/Hollow-Clock-V/
 
 Impossible Passthrough Pyramid
- https://makerworld.com/en/models/504525-impossible-pyramid-passthrough#profileId-451245
+ [https://makerworld.com/en/models/504525-impossible-pyramid-passthrough
 
 Passthrough Pyramid OpenScad code
- https://makerworld.com/en/models/663674-custom-impossible-passthrough-polygon-pyramid#profileId-590941
+ https://makerworld.com/en/models/663674-custom-impossible-passthrough-polygon-pyramid
 
 Stackable Shelves
  https://www.printables.com/model/1283877-stackable-shelves/files
@@ -24,3 +24,15 @@ Original Dragon Egg
 
 Butterfly Vase
   https://www.printables.com/model/523215-butterfly-vase/collections
+
+Stackfinity Storage System
+  https://makerworld.com/en/models/1323277-stackfinity-a-gridfinity-modular-storage-system
+
+3D Printed Toys for Tots
+  https://www.ic3dprinters.com/3d-printed-toys-for-tots/
+
+LED Energy Crystal
+  https://www.youtube.com/watch?v=orOaQHuhr2g
+
+Christmas Tree
+  https://www.thingiverse.com/thing:1913982
