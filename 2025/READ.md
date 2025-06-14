@@ -39,3 +39,6 @@ Christmas Tree
 
 Swing Set
   https://makerworld.com/en/models/1038267-heart-swing
+
+Sound Reactive Floor Lamp using WLED
+  https://www.printables.com/model/567311-floor-lamp-sound-reactive-wled
