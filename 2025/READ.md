@@ -10,8 +10,8 @@ Impossible Passthrough Pyramid
 Passthrough Pyramid OpenScad code
  https://makerworld.com/en/models/663674-custom-impossible-passthrough-polygon-pyramid
 
-Stackable Shelves
- https://www.printables.com/model/1283877-stackable-shelves/files
+Printy Panels
+ https://www.printables.com/model/859807-printy-panels
 
 Levitation Pyramid of Time
  https://makerworld.com/en/models/759786-levitation-pyramid-of-time-fragments
